@@ -4,12 +4,16 @@ Or should I say wwc!?
 
 ![](https://media0.giphy.com/media/l4JyQJQ2e60y0gTN6/giphy.gif)
 
-- cigarillos
-- 3 or more beach towels and a big blanket
-- ground coffee (maker on site per JK)
-- 2 beach chairs (assuming MD bringing own; will contact)
-- computer
-- HDMI cable
-
-
+- [ ] cigarillos
+- [x] lighter, though I know ES has a fancy torch lighter
+- [x] 3 or more beach towels and a big blanket
+- [x] ground coffee (maker on site per JK)
+- [ ] vacuum coffee maker??? fragile and labor intensive
+- [x] 2 beach chairs
+- [x] computer
+- [x] HDMI cable
+- [x] skull glass
+- [ ] parka
+- [x] snowshoes
+ 
 
