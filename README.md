@@ -5,6 +5,7 @@ Or should I say wwc!?
 ![](https://media0.giphy.com/media/l4JyQJQ2e60y0gTN6/giphy.gif)
 
 Arriving: Friday, 2021-09-17
+
 Departing: 2021-09-(20/21)
 
 - [x] 2 beach chairs
