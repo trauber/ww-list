@@ -25,14 +25,18 @@ Destination:
 - [ ] Farmer's or other gin (ES)
 - [ ] cigarillos (RT)
 - [ ] lighter (RT)
-- [ ] skull glass
-- [ ] computer
-- [ ] HDMI cable
-- [ ] charge cables
-- [ ] swim suit
+- [ ] skull glass (RT, ES)
+- [ ] computer (RT)
+- [ ] HDMI cable (RT)
+- [ ] charge cables (RT)
+- [ ] swim suit 
 - [ ] fanny pack
 - [ ] Tevas
 - [ ] Birks
+- [ ] 5 skivvies
+- [ ] 5 tees
+- [ ] 1 hoodie
+- [ ] 2 shorts
 - [ ] Take E to AC (RT)
 - [ ] beach towels, quantity TBD
 - [ ] swimsuit for self
