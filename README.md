@@ -19,6 +19,7 @@ Destination:
 - [ ] Bagels (RT)
 - [ ] Chicken Shawarma (RT)
 - [ ] Pita (RT)
+- [ ] Salad fixings (MD)
 - [ ] Ground Coffee (RT)
 - [ ] pick up Eric from AC (MD)
 - [ ] Farmer's or other gin (ES)
