@@ -4,6 +4,38 @@ Or should I say wwc!?
 
 ![](https://media0.giphy.com/media/l4JyQJQ2e60y0gTN6/giphy.gif)
 
+
+Destination:
+
+
+![Sea Chest Motel](https://seachestmotel.com/wp-content/uploads/2022/06/sea-chest-motel-pool.jpg)
+
+
+## 2022
+
+- [ ] Soy Vey Salmon (RT)
+- [ ] Bagels (RT)
+- [ ] Chicken Shawarma (RT)
+- [ ] Pita (RT)
+- [ ] Ground Coffee (RT)
+- [ ] pick up Eric from AC (MD)
+- [ ] Farmer's or other gin (ES)
+- [ ] cigarillos (RT)
+- [ ] lighter (RT)
+- [ ] skull glass
+- [ ] computer
+- [ ] HDMI cable
+- [ ] charge cables
+- [ ] swim suit
+- [ ] fanny pack
+- [ ] Tevas
+- [ ] Birks
+- [ ] Take E to AC (RT)
+
+
+
+## 2021
+
 Arriving: Friday, 2021-09-17
 
 Departing: 2021-09-(20/21)
@@ -35,4 +67,10 @@ Departing: 2021-09-(20/21)
 - [ ] hazmat suit
 - [ ] p95 respirator
  
+![speedo limit](https://render.fineartamerica.com/images/rendered/default/metal-print/6/8/break/images-medium-5/speedo-limit-21-years-marisa-acocella-marchetto.jpg)
 
+![mine used to be an eagle too](https://cdn.dopl3r.com//media/memes_files/mine-used-to-be-an-eagle-too-trQTS.jpg)
+
+![wishing well](https://i.etsystatic.com/15803407/r/il/6bbe7e/2535338937/il_794xN.2535338937_sc9l.jpg)
+
+![old man at beach](old-man-at-beach.png)
