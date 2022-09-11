@@ -13,6 +13,8 @@ Destination:
 
 ## 2022
 
+- [ ] 2 camping chairs (RT)
+- [ ] presies (RT)
 - [ ] Soy Vey Salmon (RT)
 - [ ] Bagels (RT)
 - [ ] Chicken Shawarma (RT)
@@ -31,6 +33,11 @@ Destination:
 - [ ] Tevas
 - [ ] Birks
 - [ ] Take E to AC (RT)
+- [ ] beach towels, quantity TBD
+- [ ] swimsuit for self
+- [ ] BOB in case of apocalypse
+- [ ] security black book in case of apocalypse
+- [ ] cyanide tablets in case of apocalypse
 
 
 
