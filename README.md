@@ -14,7 +14,7 @@ Destination:
 ## 2022
 
 - [ ] 2 camping chairs (RT)
-- [ ] presies (RT)
+- [x] presies (RT)
 - [ ] Soy Vey Salmon (RT)
 - [ ] Bagels (RT)
 - [ ] Chicken Shawarma (RT)
@@ -24,25 +24,25 @@ Destination:
 - [ ] pick up Eric from AC (MD)
 - [ ] Farmer's or other gin (ES)
 - [ ] cigarillos (RT)
-- [ ] lighter (RT)
-- [ ] skull glass (RT, ES)
+- [ ] lighter (RT) (refilled)
+- [x] skull glass (RT, ES)
 - [ ] computer (RT)
 - [ ] HDMI cable (RT)
 - [ ] charge cables (RT)
 - [ ] swim suit 
-- [ ] fanny pack
+- [x] fanny pack
 - [ ] Tevas
 - [ ] Birks
-- [ ] 5 skivvies
-- [ ] 5 tees
-- [ ] 1 hoodie
-- [ ] 2 shorts
+- [x] 5 skivvies
+- [x] 5 tees
+- [x] 1 hoodie
+- [x] 2 shorts
 - [ ] Take E to AC (RT)
 - [ ] beach towels, quantity TBD
-- [ ] swimsuit for self
-- [ ] BOB in case of apocalypse
-- [ ] security black book in case of apocalypse
-- [ ] cyanide tablets in case of apocalypse
+- [x] swimsuit for self
+- [x] BOB in case of apocalypse
+- [x] security black book in case of apocalypse
+- [x] cyanide tablets in case of apocalypse
 
 
 
