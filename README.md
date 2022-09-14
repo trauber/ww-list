@@ -23,13 +23,13 @@ Destination:
 - [ ] Ground Coffee (RT)
 - [ ] pick up Eric from AC (MD)
 - [ ] Farmer's or other gin (ES)
-- [ ] cigarillos (RT)
-- [ ] lighter (RT) (refilled)
+- [x] cigarillos (RT)
+- [x] lighter (RT) (refilled)
 - [x] skull glass (RT, ES)
 - [ ] computer (RT)
 - [ ] HDMI cable (RT)
 - [ ] charge cables (RT)
-- [ ] sun glasses
+- [x] sun glasses
 - [ ] swim suit 
 - [x] fanny pack
 - [ ] Tevas
