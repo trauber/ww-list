@@ -29,6 +29,7 @@ Destination:
 - [ ] computer (RT)
 - [ ] HDMI cable (RT)
 - [ ] charge cables (RT)
+- [ ] sun glasses
 - [ ] swim suit 
 - [x] fanny pack
 - [ ] Tevas
