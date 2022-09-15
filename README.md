@@ -15,6 +15,7 @@ Destination:
 
 - [ ] 2 camping chairs (RT)
 - [x] presies (RT)
+- [ ] Backgammon
 - [ ] Soy Vey Salmon (RT)
 - [ ] Bagels (RT)
 - [ ] Chicken Shawarma (RT)
