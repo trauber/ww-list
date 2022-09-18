@@ -14,12 +14,14 @@ Destination:
 ## 2022
 
 - [ ] 2 camping chairs (RT)
+- [ ] cooler
+- [ ] ice packs
 - [x] presies (RT)
 - [ ] Backgammon
-- [ ] Soy Vey Salmon (RT)
-- [ ] Bagels (RT)
-- [ ] Chicken Shawarma (RT)
-- [ ] Pita (RT)
+- [x] Soy Vey Salmon (RT)
+- [x] Bagels (RT)
+- [x] Chicken Shawarma (RT)
+- [x] Pita (RT)
 - [ ] Salad fixings (MD)
 - [ ] Ground Coffee (RT)
 - [ ] pick up Eric from AC (MD)
@@ -27,11 +29,11 @@ Destination:
 - [x] cigarillos (RT)
 - [x] lighter (RT) (refilled)
 - [x] skull glass (RT, ES)
-- [ ] computer (RT)
+- [x] computer (RT)
 - [ ] HDMI cable (RT)
 - [ ] charge cables (RT)
 - [x] sun glasses
-- [ ] swim suit 
+- [x] swim suit 
 - [x] fanny pack
 - [ ] Tevas
 - [ ] Birks
